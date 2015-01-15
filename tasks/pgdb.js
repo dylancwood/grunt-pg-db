@@ -10,8 +10,8 @@ var gruntPGDB =  function (grunt) {
         var done = this.async();
         var options = this.options();
         // attempt to get DB connection parameters:
-        var connection = this.getConnectionParams(options);
-        var sql = this.getSQLToExecute(options);
+        var connection = gruntPGDB.getConnectionParams(options);
+        var sql = gruntPGDB.getSQLToExecute(options);
         var myDB = db(connection);
 
         // private functions
