@@ -1,6 +1,6 @@
 {
   "name": "grunt-pg-db",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "grunt wrapper for the node-pg-db library",
   "main": "tasks/pgdb.js",
   "scripts": {
