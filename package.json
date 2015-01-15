@@ -1,6 +1,6 @@
 {
   "name": "grunt-pg-db",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Execute SQL on PosgreSQL databases with Grunt",
   "homepage": "https://github.com/dylancwood/grunt-pg-db",
   "main": "tasks/pgdb.js",
