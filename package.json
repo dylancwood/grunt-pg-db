@@ -1,0 +1,16 @@
+{
+  "name": "grunt-pg-db",
+  "version": "0.0.1",
+  "description": "grunt wrapper for the node-pg-db library",
+  "main": "tasks/pgdb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "pg-db": "^0.8.0",
+    "underscore": "^1.7.0"
+  }
+}
