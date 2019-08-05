@@ -6,7 +6,7 @@
 * grunt-pg: https://github.com/moneytribeaustralia/grunt-pg
 * grunt-pg-utils: https://github.com/TopCS/grunt-pg-utils
 
-Unlike the above modules, grunt-pg-db enables you to **run abritrary sql on a remote or local DB without installing psql**.
+Unlike the above modules, grunt-pg-db enables you to **run arbitrary sql on a remote or local DB without installing psql**.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.0`
